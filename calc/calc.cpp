@@ -9,9 +9,9 @@ int main()
     int x = 0;
     int y = 0;
 
-    std::cout << "첫번쨰 수를 입려하세요 : ";
+    std::cout << "첫번쨰 수를 입력하세요 : ";
     std::cin >> x;
-    std::cout << "두번쨰 수를 입려하세요 : ";
+    std::cout << "두번쨰 수를 입력하세요 : ";
     std::cin >> y;
 
     printf("입력된 수 x[ %d ] y[ %d ]\n", x, y);
